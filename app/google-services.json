@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927413271229",
+    "project_id": "shinechat-df995",
+    "storage_bucket": "shinechat-df995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927413271229:android:0c24f5c2de6bf76a5e95d4",
+        "android_client_info": {
+          "package_name": "com.project.shinechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927413271229-gsihpmf65on0i0l01nt76cvc7lbpq5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHn5lxJGQhGeWshrGXrJ8dpbav1O0taX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927413271229-gsihpmf65on0i0l01nt76cvc7lbpq5og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
